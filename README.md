@@ -11,7 +11,7 @@
 
 
 :construction_worker: Atualmente trabalho com :snake: Python/Django e :elephant: PHP/Laravel<br>
-📚 Estudando Python, PHP, Laravel<br>
+📚 Estudando: Python, Django, PHP, Laravel e AWS<br>
 :computer: Graduado em Ciência Da Computação<br>
 :space_invader: Gamer<br>
 </samp>
