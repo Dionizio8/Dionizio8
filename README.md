@@ -1,6 +1,6 @@
 ### Olá! Sou Gabriel :metal:
 
-:coffee: Desenvolvedor e Analista  na GPr Sistemas 🏡 Brasileiro 🌎 Limera (São Paulo) ✈️ Brasil
+:coffee: Desenvolvedor 🏡 Brasileiro 🌎 Limera (São Paulo) ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
@@ -11,7 +11,7 @@
 
 
 :construction_worker: Atualmente trabalho com :snake: Python/Django e :elephant: PHP/Laravel<br>
-📚 Estudando: Python, Django, PHP, Laravel e AWS<br>
+📚 Estudando: Python, PHP, e AWS<br>
 :computer: Graduado em Ciência Da Computação<br>
 :space_invader: Gamer<br>
 </samp>
