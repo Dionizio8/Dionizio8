@@ -10,8 +10,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-dionizio08-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/dionizio08)](https://twitter.com/dionizio08)
 
 
-:construction_worker: Atualmente trabalho com :snake: Python/Django e :elephant: PHP/Laravel<br>
-📚 Estudando: Python, PHP, e AWS<br>
+:construction_worker: Atualmente trabalho com Java ☕, PHP 🐘 e Python 🐍<br>
+📚 Estudando: Java e design patterns <br>
 :computer: Graduado em Ciência Da Computação<br>
 :space_invader: Gamer<br>
 </samp>
