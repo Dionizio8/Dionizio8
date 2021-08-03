@@ -16,6 +16,4 @@
 ](https://github.com/Dionizio8/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dionizio8&layout=compact)](https://github.com/Dionizio8/github-readme-stats)
- 
- <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif">
-</div>
+ </div>
