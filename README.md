@@ -3,7 +3,7 @@
 
 ### Hello, welcome !! :metal: ☕
 
-:coffee: Software Engineer 🏡 Brazilian 🌎 Limera (São Paulo) ✈️ Brazil
+:coffee: Software Engineer 🏡 Brazilian 🌎 Limeira (São Paulo) ✈️ Brazil
 
 ### Find me here 🌎
 
